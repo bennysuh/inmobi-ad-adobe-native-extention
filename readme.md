@@ -1,4 +1,4 @@
-#introduction#
+#introduction -- inmobi ane for flash android and ios application
 this is a free adobe native extention (ane) of inmobi ad network for flash air mobile developer.<br/>
 it very easy to use,you can pack your air application or game on pc or mac,<br/>
 with the same code just with as3,and not any java or objective-c need.<br/>
