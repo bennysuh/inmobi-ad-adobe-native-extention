@@ -1,13 +1,17 @@
 #introduction#
-this is a free adobe native extention (ane) of inmobi ad network for flash air mobile developer.it very easy to use,you can pack your air application or game on pc or mac,with the same code just with as3,and not any java or objective-c need.
+this is a free adobe native extention (ane) of inmobi ad network for flash air mobile developer.<br/>
+it very easy to use,you can pack your air application or game on pc or mac,<br/>
+with the same code just with as3,and not any java or objective-c need.<br/>
+
 1.support all inmobi banner ad sizes and Interstitial<br/>
 2.support ads on android and ios(iphone ,ipad ,ipad)<br/>
 3.supportlandscape andportrait mode<br/>
 4.supportauto Orients air application<br/>
 <br/>
 ###inmobi 1.0.ane
-flash air ane lib,contains lib for android and ios all in one file,although there are 4m file size, but it does not increase the final release package size, ease of use.<br/>
-###builds###
+flash air ane lib,contains lib for android and ios all in one file,<br/>
+although there are 4m file size, but it does not increase the final release package size, ease of use.<br/>
+###builds
 base on inmobi network ios sdk 4.0.3 and inmobi android sdk 4.0.2<br/>
 base on adobe air sdk 3.5,so your app air sdk version must be 3.5 or higher<br/>
 ref:http://www.inmobi.com/<br/>
@@ -16,7 +20,7 @@ download:http://code.google.com/p/inmobi-ad-flash-air-ane-ios-android/<br/>
 ###  extention id
 this extention id will been add in application-app.xml<br/>
 <extensionID>so.cuo.platform.inmobi</extensionID>
-###banner###
+###banner
 how to show a banner ad in air mobile app?
 ```
 if (Inmobi.getInstance().supportDevice)
@@ -65,9 +69,9 @@ for android user,must add inmobi activity to xxx-app.xml
 ```
 ###more
 if you enable analyst in www.inmobi.com,you can view your app install info without do any thing<br/>
+<br/>
 if you create a app ,and not verify it,or your app not in activity state,you can not load ad,you will get a invalid app id error<br/>
 ###you may like
-[https://code.google.com/p/flash-air-admob-ane-for-ios/ admob ad ane]<br/>
-[https://code.google.com/p/chartboost-sdk/ chartboost ad ane]<br/>
-----
+https://code.google.com/p/flash-air-admob-ane-for-ios/<br/>
+https://code.google.com/p/chartboost-sdk/ <br/>
  contact:qq group£º56892018 email:wohaosea@gmail.com
