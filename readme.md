@@ -19,7 +19,9 @@ ref:http://labs.adobe.com/<br/>
 download:http://code.google.com/p/inmobi-ad-flash-air-ane-ios-android/<br/>
 ###  extention id
 this extention id will been add in application-app.xml<br/>
+```
 <extensionID>so.cuo.platform.inmobi</extensionID>
+```
 ###banner
 how to show a banner ad in air mobile app?
 ```
