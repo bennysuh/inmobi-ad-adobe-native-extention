@@ -12,11 +12,11 @@ with the same code just with as3,and not any java or objective-c need.<br/>
 flash air ane lib,contains lib for android and ios all in one file,<br/>
 although there are 4m file size, but it does not increase the final release package size, ease of use.<br/>
 ###builds
-base on inmobi network ios sdk 4.0.3 and inmobi android sdk 4.0.2<br/>
-base on adobe air sdk 3.5,so your app air sdk version must be 3.5 or higher<br/>
+base on inmobi network ios sdk 4.5.1 and inmobi android sdk 4.5.2<br/>
+base on adobe air sdk 15,so your app air sdk version must be 15 or higher<br/>
 ref:http://www.inmobi.com/<br/>
 ref:http://labs.adobe.com/<br/>
-download:http://code.google.com/p/inmobi-ad-flash-air-ane-ios-android/<br/>
+download:https://github.com/lilili87222/inmobi-ad-adobe-native-extention<br/>
 ###  extention id
 this extention id will been add in application-app.xml<br/>
 ```
@@ -70,10 +70,10 @@ for android user,must add inmobi activity to xxx-app.xml
 </manifest>
 ```
 ###more
-if you enable analyst in www.inmobi.com,you can view your app install info without do any thing<br/>
+if you enable analyst in www.inmobi.com ,you can view your app install info without do any thing<br/>
 <br/>
 if you create a app ,and not verify it,or your app not in activity state,you can not load ad,you will get a invalid app id error<br/>
 ###you may like
-https://code.google.com/p/flash-air-admob-ane-for-ios/<br/>
-https://code.google.com/p/chartboost-sdk/ <br/>
- contact:qq group£º56892018 email:wohaosea@gmail.com
+https://github.com/lilili87222/admob-for-flash<br/>
+https://github.com/lilili87222/as3-air-ad-network-framework <br/>
+ contact:qq groupï¿½ï¿½56892018 email:wohaosea@gmail.com

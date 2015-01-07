@@ -8,11 +8,11 @@ this is a free adobe native extention (ane) of inmobi ad network for flash air m
 ===inmobi 1.0.ane===
 flash air ane lib,contains lib for android and ios all in one file,although there are 4m file size, but it does not increase the final release package size, ease of use.
 ===builds===
-base on inmobi network ios sdk 4.0.3 and inmobi android sdk 4.0.2
-base on adobe air sdk 3.5,so your app air sdk version must be 3.5 or higher
+base on inmobi network ios sdk 4.5.1 and inmobi android sdk 4.5.2
+base on adobe air sdk 15,so your app air sdk version must be 15 or higher
 ref:http://www.inmobi.com/
 ref:http://labs.adobe.com/
-download:http://code.google.com/p/inmobi-ad-flash-air-ane-ios-android/
+download:https://github.com/lilili87222/inmobi-ad-adobe-native-extention
 ===  extention id===
 this extention id will been add in application-app.xml
 <extensionID>so.cuo.platform.inmobi</extensionID>
@@ -57,7 +57,7 @@ for android user,must add inmobi activity to xxx-app.xml
 if you enable analyst in www.inmobi.com,you can view your app install info without do any thing
 if you create a app ,and not verify it,or your app not in activity state,you can not load ad,you will get a invalid app id error
 ===you may like===
-[https://code.google.com/p/flash-air-admob-ane-for-ios/ admob ad ane]
-[https://code.google.com/p/chartboost-sdk/ chartboost ad ane]
+[https://github.com/lilili87222/admob-for-flash admob ad ane]
+[https://github.com/lilili87222/as3-air-ad-network-framework flash ad framework]
 ----
  contact:qq group£º56892018 email:wohaosea@gmail.com
