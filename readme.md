@@ -76,4 +76,9 @@ if you create a app ,and not verify it,or your app not in activity state,you can
 ###you may like
 https://github.com/lilili87222/admob-for-flash<br/>
 https://github.com/lilili87222/as3-air-ad-network-framework <br/>
- contact:qq group��56892018 email:wohaosea@gmail.com
+  email:wohaosea@gmail.com
+ 
+ if user like this lib,you can download and review our game <br/>
+https://itunes.apple.com/us/artist/phonegame/id553087275?mt=8 <br/>
+donate and download more ane  <br/>
+http://www.cuo.so/ane-list/index.html  <br/>
